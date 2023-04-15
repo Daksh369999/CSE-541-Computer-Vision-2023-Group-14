@@ -1,1 +1,1 @@
-
+There are two images Registered & Not Registered, the image that has been recognised from the trained images is Regestered, it shows the name & id of the person and marks the attendance. While the image that doesn't, match with trainded images it shows not regestered. Giving clear output & not marking the attendance in CSV file for not regestered.
